@@ -3,7 +3,7 @@ import { HeaderResponsive } from "src/component/organisms/Header";
 import { FooterSocial } from "src/component/organisms/FooterSocial";
 import { useMediaQuery } from "src/lib/mantine/useMediaQuery";
 import { useViewportSize } from "src/lib/mantine/useViewportSize";
-import { MainVisual } from 'src/component/organisms/MainVisual'
+import { MainVisual } from "src/component/organisms/MainVisual";
 import { H3 } from 'src/component/atoms/H3'
 import Image from 'next/image'
 // import { H3 } from "tabler-icons-react";
